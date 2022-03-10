@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382546755124",
+    "firebase_url": "https://testapp-a48be-default-rtdb.firebaseio.com",
+    "project_id": "testapp-a48be",
+    "storage_bucket": "testapp-a48be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382546755124:android:9f8193c81b1c10d69dd461",
+        "android_client_info": {
+          "package_name": "com.hashim.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382546755124-lj8da20gb1kn4fqrvnq6pks8396c6jf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ9JD0BchHSIUeJgtalIN6pa3tKtIm4wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382546755124-lj8da20gb1kn4fqrvnq6pks8396c6jf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
